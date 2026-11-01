@@ -1,0 +1,347 @@
+{
+ "w-yes": {
+  "text": "eeyyee",
+  "file": "audio/om/w-yes.mp3",
+  "source": "espeak-ng"
+ },
+ "w-no": {
+  "text": "lakki",
+  "file": "audio/om/w-no.mp3",
+  "source": "espeak-ng"
+ },
+ "w-thanks": {
+  "text": "galatoomi",
+  "file": "audio/om/w-thanks.mp3",
+  "source": "espeak-ng"
+ },
+ "w-dontunderstand": {
+  "text": "Hin hubadhu",
+  "file": "audio/om/w-dontunderstand.mp3",
+  "source": "espeak-ng"
+ },
+ "w-repeat": {
+  "text": "Irra deebi'i",
+  "file": "audio/om/w-repeat.mp3",
+  "source": "espeak-ng"
+ },
+ "w-enough": {
+  "text": "Xumurameera",
+  "file": "audio/om/w-enough.mp3",
+  "source": "espeak-ng"
+ },
+ "w-n1": {
+  "text": "tokko",
+  "file": "audio/om/w-n1.mp3",
+  "source": "espeak-ng"
+ },
+ "w-n2": {
+  "text": "lama",
+  "file": "audio/om/w-n2.mp3",
+  "source": "espeak-ng"
+ },
+ "w-n3": {
+  "text": "sadii",
+  "file": "audio/om/w-n3.mp3",
+  "source": "espeak-ng"
+ },
+ "w-n4": {
+  "text": "afur",
+  "file": "audio/om/w-n4.mp3",
+  "source": "espeak-ng"
+ },
+ "w-n5": {
+  "text": "shan",
+  "file": "audio/om/w-n5.mp3",
+  "source": "espeak-ng"
+ },
+ "w-plate": {
+  "text": "saanii",
+  "file": "audio/om/w-plate.mp3",
+  "source": "espeak-ng"
+ },
+ "w-spoon": {
+  "text": "qaanxii",
+  "file": "audio/om/w-spoon.mp3",
+  "source": "espeak-ng"
+ },
+ "w-knife": {
+  "text": "billaawwaa",
+  "file": "audio/om/w-knife.mp3",
+  "source": "espeak-ng"
+ },
+ "w-pot": {
+  "text": "okkotee",
+  "file": "audio/om/w-pot.mp3",
+  "source": "espeak-ng"
+ },
+ "w-kettle": {
+  "text": "jabanaa",
+  "file": "audio/om/w-kettle.mp3",
+  "source": "espeak-ng"
+ },
+ "w-rice": {
+  "text": "ruuzii",
+  "file": "audio/om/w-rice.mp3",
+  "source": "espeak-ng"
+ },
+ "w-bread": {
+  "text": "buddeena",
+  "file": "audio/om/w-bread.mp3",
+  "source": "espeak-ng"
+ },
+ "w-meat": {
+  "text": "foon",
+  "file": "audio/om/w-meat.mp3",
+  "source": "espeak-ng"
+ },
+ "w-chicken": {
+  "text": "lukuu",
+  "file": "audio/om/w-chicken.mp3",
+  "source": "espeak-ng"
+ },
+ "w-egg": {
+  "text": "hanqaaquu",
+  "file": "audio/om/w-egg.mp3",
+  "source": "espeak-ng"
+ },
+ "w-fish": {
+  "text": "qurxummii",
+  "file": "audio/om/w-fish.mp3",
+  "source": "espeak-ng"
+ },
+ "w-water": {
+  "text": "bishaan",
+  "file": "audio/om/w-water.mp3",
+  "source": "espeak-ng"
+ },
+ "w-milk": {
+  "text": "aannan",
+  "file": "audio/om/w-milk.mp3",
+  "source": "espeak-ng"
+ },
+ "w-tea": {
+  "text": "shaayii",
+  "file": "audio/om/w-tea.mp3",
+  "source": "espeak-ng"
+ },
+ "w-coffee": {
+  "text": "buna",
+  "file": "audio/om/w-coffee.mp3",
+  "source": "espeak-ng"
+ },
+ "w-salt": {
+  "text": "soogidda",
+  "file": "audio/om/w-salt.mp3",
+  "source": "espeak-ng"
+ },
+ "w-juice": {
+  "text": "juusii",
+  "file": "audio/om/w-juice.mp3",
+  "source": "espeak-ng"
+ },
+ "w-come": {
+  "text": "kottu",
+  "file": "audio/om/w-come.mp3",
+  "source": "espeak-ng"
+ },
+ "w-go": {
+  "text": "deemi",
+  "file": "audio/om/w-go.mp3",
+  "source": "espeak-ng"
+ },
+ "w-wait": {
+  "text": "eegi",
+  "file": "audio/om/w-wait.mp3",
+  "source": "espeak-ng"
+ },
+ "w-open": {
+  "text": "bani",
+  "file": "audio/om/w-open.mp3",
+  "source": "espeak-ng"
+ },
+ "w-close": {
+  "text": "cufi",
+  "file": "audio/om/w-close.mp3",
+  "source": "espeak-ng"
+ },
+ "w-bring": {
+  "text": "fidi",
+  "file": "audio/om/w-bring.mp3",
+  "source": "espeak-ng"
+ },
+ "w-good": {
+  "text": "gaarii",
+  "file": "audio/om/w-good.mp3",
+  "source": "espeak-ng"
+ },
+ "w-slowly": {
+  "text": "suuta",
+  "file": "audio/om/w-slowly.mp3",
+  "source": "espeak-ng"
+ },
+ "w-quick": {
+  "text": "dafii",
+  "file": "audio/om/w-quick.mp3",
+  "source": "espeak-ng"
+ },
+ "w-where": {
+  "text": "Eessa?",
+  "file": "audio/om/w-where.mp3",
+  "source": "espeak-ng"
+ },
+ "w-tired": {
+  "text": "Dadhabeera",
+  "file": "audio/om/w-tired.mp3",
+  "source": "espeak-ng"
+ },
+ "w-forbidden": {
+  "text": "Hin ta'u",
+  "file": "audio/om/w-forbidden.mp3",
+  "source": "espeak-ng"
+ },
+ "w-tomato": {
+  "text": "timaatimii",
+  "file": "audio/om/w-tomato.mp3",
+  "source": "espeak-ng"
+ },
+ "w-onion": {
+  "text": "qullubbii",
+  "file": "audio/om/w-onion.mp3",
+  "source": "espeak-ng"
+ },
+ "w-potato": {
+  "text": "dinnicha",
+  "file": "audio/om/w-potato.mp3",
+  "source": "espeak-ng"
+ },
+ "w-carrot": {
+  "text": "kaarotii",
+  "file": "audio/om/w-carrot.mp3",
+  "source": "espeak-ng"
+ },
+ "w-banana": {
+  "text": "muuzii",
+  "file": "audio/om/w-banana.mp3",
+  "source": "espeak-ng"
+ },
+ "w-apple": {
+  "text": "tufaaha",
+  "file": "audio/om/w-apple.mp3",
+  "source": "espeak-ng"
+ },
+ "w-lemon": {
+  "text": "loomii",
+  "file": "audio/om/w-lemon.mp3",
+  "source": "espeak-ng"
+ },
+ "w-soap": {
+  "text": "saamunaa",
+  "file": "audio/om/w-soap.mp3",
+  "source": "espeak-ng"
+ },
+ "w-trash": {
+  "text": "kosii",
+  "file": "audio/om/w-trash.mp3",
+  "source": "espeak-ng"
+ },
+ "w-clothes": {
+  "text": "uffata",
+  "file": "audio/om/w-clothes.mp3",
+  "source": "espeak-ng"
+ },
+ "w-wash": {
+  "text": "dhiqi",
+  "file": "audio/om/w-wash.mp3",
+  "source": "espeak-ng"
+ },
+ "w-cook": {
+  "text": "bilcheessi",
+  "file": "audio/om/w-cook.mp3",
+  "source": "espeak-ng"
+ },
+ "w-eat": {
+  "text": "nyaadhu",
+  "file": "audio/om/w-eat.mp3",
+  "source": "espeak-ng"
+ },
+ "w-drink": {
+  "text": "dhugi",
+  "file": "audio/om/w-drink.mp3",
+  "source": "espeak-ng"
+ },
+ "w-n6": {
+  "text": "jaha",
+  "file": "audio/om/w-n6.mp3",
+  "source": "espeak-ng"
+ },
+ "w-n7": {
+  "text": "torba",
+  "file": "audio/om/w-n7.mp3",
+  "source": "espeak-ng"
+ },
+ "w-n8": {
+  "text": "saddeet",
+  "file": "audio/om/w-n8.mp3",
+  "source": "espeak-ng"
+ },
+ "w-n9": {
+  "text": "sagal",
+  "file": "audio/om/w-n9.mp3",
+  "source": "espeak-ng"
+ },
+ "w-n10": {
+  "text": "kudhan",
+  "file": "audio/om/w-n10.mp3",
+  "source": "espeak-ng"
+ },
+ "w-toilet": {
+  "text": "mana fincaanii",
+  "file": "audio/om/w-toilet.mp3",
+  "source": "espeak-ng"
+ },
+ "w-door": {
+  "text": "balbala",
+  "file": "audio/om/w-door.mp3",
+  "source": "espeak-ng"
+ },
+ "w-window": {
+  "text": "foddaa",
+  "file": "audio/om/w-window.mp3",
+  "source": "espeak-ng"
+ },
+ "m-intro-0": {
+  "text": "Afaan Arabiffaa as baradhu",
+  "file": "audio/om/m-intro-0.mp3",
+  "source": "espeak-ng"
+ },
+ "m-praise-0": {
+  "text": "Gaarii!",
+  "file": "audio/om/m-praise-0.mp3",
+  "source": "espeak-ng"
+ },
+ "m-praise-1": {
+  "text": "Baayyee gaarii!",
+  "file": "audio/om/m-praise-1.mp3",
+  "source": "espeak-ng"
+ },
+ "m-praise-2": {
+  "text": "Jabaadhu!",
+  "file": "audio/om/m-praise-2.mp3",
+  "source": "espeak-ng"
+ },
+ "m-retry-0": {
+  "text": "Rakkoo hin qabu, irra deebi'i",
+  "file": "audio/om/m-retry-0.mp3",
+  "source": "espeak-ng"
+ },
+ "m-retry-1": {
+  "text": "Irra deebi'ii yaali",
+  "file": "audio/om/m-retry-1.mp3",
+  "source": "espeak-ng"
+ },
+ "m-finish-0": {
+  "text": "Baayyee gaarii! Xumurte",
+  "file": "audio/om/m-finish-0.mp3",
+  "source": "espeak-ng"
+ }
+}
