@@ -1,0 +1,109 @@
+{
+  "_readme": "كل الكلمات هنا. للتعديل: غيّر النص فقط. om = الأرومية (Qubee). om_ok=false يعني الترجمة غير مؤكدة (تظهر بعلامة تحذير للمشرف). om=null يعني ما فيه ترجمة بعد. emoji: رمز واحد أو قائمة رموز. say = نص بديل للنطق لو احتجته.",
+  "ui": {
+    "lock": "🔒", "star": "⭐", "finger": "👆", "play": "▶️", "speaker": "🔊",
+    "slow": "🐢", "gear": "⚙️", "cheer": "🤗", "strong": "💪", "party": "🎉",
+    "clap": "👏", "home": "🏠", "back": "◀️", "warn": "⚠️", "ok": "✅"
+  },
+  "praise": ["ممتاز", "أحسنتي", "حلو", "تمام", "برافو"],
+  "retry": ["ما عليه، جربي مرة ثانية", "قريب، عيدي", "جربي مرة ثانية"],
+  "finish": ["الله يعطيك العافية", "ممتاز، خلصتي"],
+  "levels": [
+    { "id": "phrases1", "icon": "💬", "name": "جمل البقاء", "words": [
+      { "id": "yes", "emoji": "👍", "ar": "نعم", "om": "eeyyee", "om_ok": true },
+      { "id": "no", "emoji": "👎", "ar": "لا", "om": "lakki", "om_ok": true },
+      { "id": "thanks", "emoji": "🙏", "ar": "شكراً", "om": "galatoomi", "om_ok": true },
+      { "id": "dontunderstand", "emoji": "🤷‍♀️", "ar": "ما فهمت", "om": "Hin hubadhu", "om_ok": true },
+      { "id": "repeat", "emoji": "🔁", "ar": "عيدي", "om": "Irra deebi'i", "om_ok": true },
+      { "id": "enough", "emoji": "✋", "ar": "خلاص", "om": "Xumurameera", "om_ok": false }
+    ]},
+    { "id": "nums1", "icon": "🔢", "name": "الأرقام ١ - ٥", "words": [
+      { "id": "n1", "emoji": "1️⃣", "ar": "واحد", "om": "tokko", "om_ok": true },
+      { "id": "n2", "emoji": "2️⃣", "ar": "ثنتين", "om": "lama", "om_ok": true },
+      { "id": "n3", "emoji": "3️⃣", "ar": "ثلاثة", "om": "sadii", "om_ok": true },
+      { "id": "n4", "emoji": "4️⃣", "ar": "أربعة", "om": "afur", "om_ok": true },
+      { "id": "n5", "emoji": "5️⃣", "ar": "خمسة", "om": "shan", "om_ok": true }
+    ]},
+    { "id": "kitchen", "icon": "🍲", "name": "أدوات المطبخ", "words": [
+      { "id": "plate", "emoji": "🍽️", "ar": "صحن", "om": "saanii", "om_ok": true },
+      { "id": "spoon", "emoji": "🥄", "ar": "ملعقة", "om": "qaanxii", "om_ok": false },
+      { "id": "knife", "emoji": "🔪", "ar": "سكين", "om": "billaawwaa", "om_ok": true },
+      { "id": "pot", "emoji": "🍲", "ar": "قدر", "om": "okkotee", "om_ok": false },
+      { "id": "pan", "emoji": "🍳", "ar": "مقلاة", "om": null, "om_ok": false },
+      { "id": "kettle", "emoji": "🫖", "ar": "إبريق", "om": "jabanaa", "om_ok": false }
+    ]},
+    { "id": "food", "icon": "🍞", "name": "الأكل", "words": [
+      { "id": "rice", "emoji": "🍚", "ar": "رز", "om": "ruuzii", "om_ok": false },
+      { "id": "bread", "emoji": "🍞", "ar": "خبز", "om": "buddeena", "om_ok": true },
+      { "id": "meat", "emoji": "🥩", "ar": "لحم", "om": "foon", "om_ok": true },
+      { "id": "chicken", "emoji": "🍗", "ar": "دجاج", "om": "lukuu", "om_ok": true },
+      { "id": "egg", "emoji": "🥚", "ar": "بيض", "om": "hanqaaquu", "om_ok": true },
+      { "id": "fish", "emoji": "🐟", "ar": "سمك", "om": "qurxummii", "om_ok": true }
+    ]},
+    { "id": "drinks", "icon": "☕", "name": "الشرب", "words": [
+      { "id": "water", "emoji": "💧", "ar": "ماء", "om": "bishaan", "om_ok": true },
+      { "id": "milk", "emoji": "🥛", "ar": "حليب", "om": "aannan", "om_ok": true },
+      { "id": "tea", "emoji": "🍵", "ar": "شاهي", "om": "shaayii", "om_ok": true },
+      { "id": "coffee", "emoji": "☕", "ar": "قهوة", "om": "buna", "om_ok": true },
+      { "id": "salt", "emoji": "🧂", "ar": "ملح", "om": "soogidda", "om_ok": true },
+      { "id": "juice", "emoji": "🧃", "ar": "عصير", "om": "juusii", "om_ok": false }
+    ]},
+    { "id": "orders1", "icon": "👋", "name": "أوامر البيت", "words": [
+      { "id": "come", "emoji": "👋", "ar": "تعالي", "om": "kottu", "om_ok": true },
+      { "id": "go", "emoji": "🚶‍♀️", "ar": "روحي", "om": "deemi", "om_ok": true },
+      { "id": "wait", "emoji": "⏳", "ar": "انتظري", "om": "eegi", "om_ok": true },
+      { "id": "open", "emoji": "🔓", "ar": "افتحي", "om": "bani", "om_ok": true },
+      { "id": "close", "emoji": "🔒", "ar": "سكري", "om": "cufi", "om_ok": true },
+      { "id": "bring", "emoji": "🤲", "ar": "جيبي", "om": "fidi", "om_ok": true }
+    ]},
+    { "id": "phrases2", "icon": "🗣️", "name": "جمل مفيدة", "words": [
+      { "id": "good", "emoji": "👌", "ar": "تمام", "om": "gaarii", "om_ok": true },
+      { "id": "slowly", "emoji": "🐢", "ar": "شوي شوي", "om": "suuta", "om_ok": true },
+      { "id": "quick", "emoji": "🏃‍♀️", "ar": "بسرعة", "om": "dafii", "om_ok": true },
+      { "id": "where", "emoji": ["📍", "❓"], "ar": "وين", "om": "Eessa?", "om_ok": true },
+      { "id": "tired", "emoji": "🤒", "ar": "تعبانة", "om": "Dadhabeera", "om_ok": false },
+      { "id": "forbidden", "emoji": "🚫", "ar": "ممنوع", "om": "Hin ta'u", "om_ok": false }
+    ]},
+    { "id": "produce", "icon": "🥕", "name": "خضار وفواكه", "words": [
+      { "id": "tomato", "emoji": "🍅", "ar": "طماطم", "om": "timaatimii", "om_ok": true },
+      { "id": "onion", "emoji": "🧅", "ar": "بصل", "om": "qullubbii", "om_ok": true },
+      { "id": "potato", "emoji": "🥔", "ar": "بطاطس", "om": "dinnicha", "om_ok": false },
+      { "id": "carrot", "emoji": "🥕", "ar": "جزر", "om": "kaarotii", "om_ok": false },
+      { "id": "banana", "emoji": "🍌", "ar": "موز", "om": "muuzii", "om_ok": true },
+      { "id": "apple", "emoji": "🍎", "ar": "تفاح", "om": "tufaaha", "om_ok": false },
+      { "id": "lemon", "emoji": "🍋", "ar": "ليمون", "om": "loomii", "om_ok": true },
+      { "id": "cucumber", "emoji": "🥒", "ar": "خيار", "om": null, "om_ok": false }
+    ]},
+    { "id": "cleaning", "icon": "🧼", "name": "أغراض التنظيف", "words": [
+      { "id": "broom", "emoji": "🧹", "ar": "مكنسة", "om": null, "om_ok": false },
+      { "id": "soap", "emoji": "🧼", "ar": "صابون", "om": "saamunaa", "om_ok": true },
+      { "id": "sponge", "emoji": "🧽", "ar": "اسفنجة", "om": null, "om_ok": false },
+      { "id": "trash", "emoji": "🗑️", "ar": "زبالة", "om": "kosii", "om_ok": false },
+      { "id": "bucket", "emoji": "🪣", "ar": "جردل", "om": null, "om_ok": false },
+      { "id": "clothes", "emoji": "👕", "ar": "ملابس", "om": "uffata", "om_ok": true }
+    ]},
+    { "id": "chores", "icon": "🧺", "name": "شغل البيت", "words": [
+      { "id": "wash", "emoji": "🫧", "ar": "اغسلي", "om": "dhiqi", "om_ok": true },
+      { "id": "wipe", "emoji": ["🧽", "✨"], "ar": "امسحي", "om": null, "om_ok": false },
+      { "id": "sweep", "emoji": ["🧹", "💨"], "ar": "كنسي", "om": null, "om_ok": false },
+      { "id": "cook", "emoji": "👩‍🍳", "ar": "اطبخي", "om": "bilcheessi", "om_ok": false },
+      { "id": "eat", "emoji": "😋", "ar": "كلي", "om": "nyaadhu", "om_ok": true },
+      { "id": "drink", "emoji": "🥤", "ar": "اشربي", "om": "dhugi", "om_ok": true }
+    ]},
+    { "id": "nums2", "icon": "🔟", "name": "الأرقام ٦ - ١٠", "words": [
+      { "id": "n6", "emoji": "6️⃣", "ar": "ستة", "om": "jaha", "om_ok": true },
+      { "id": "n7", "emoji": "7️⃣", "ar": "سبعة", "om": "torba", "om_ok": true },
+      { "id": "n8", "emoji": "8️⃣", "ar": "ثمانية", "om": "saddeet", "om_ok": true },
+      { "id": "n9", "emoji": "9️⃣", "ar": "تسعة", "om": "sagal", "om_ok": true },
+      { "id": "n10", "emoji": "🔟", "ar": "عشرة", "om": "kudhan", "om_ok": true }
+    ]},
+    { "id": "house", "icon": "🏠", "name": "البيت", "words": [
+      { "id": "toilet", "emoji": "🚽", "ar": "حمام", "om": "mana fincaanii", "om_ok": true },
+      { "id": "bedroom", "emoji": "🛏️", "ar": "غرفة نوم", "om": null, "om_ok": false },
+      { "id": "living", "emoji": "🛋️", "ar": "صالة", "om": null, "om_ok": false },
+      { "id": "door", "emoji": "🚪", "ar": "باب", "om": "balbala", "om_ok": true },
+      { "id": "window", "emoji": "🪟", "ar": "شباك", "om": "foddaa", "om_ok": true },
+      { "id": "kitchenroom", "emoji": ["🏠", "🍳"], "ar": "مطبخ", "om": null, "om_ok": false }
+    ]}
+  ]
+}
